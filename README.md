@@ -1,5 +1,5 @@
 # personal-assistant-
-to run the assistant source the activation file
+to run the assistant source the activation file:
 source myenv/bin/activate
 
 file location
